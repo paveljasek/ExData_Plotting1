@@ -1,4 +1,6 @@
 # Plotting Assignment 1 for Exploratory Data Analysis
+# Johns Hopkins University, Coursera
+
 # paveljasek@gmail.com
 
 
